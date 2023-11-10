@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Leaf</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="pdf_content">PDF Content</string>
+    <string name="github_com_onursert_leaf">github.com/onursert/leaf</string>
+    <string name="title">Title:</string>
+    <string name="title2">title</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel2">Cancel</string>
+    <string name="delete2">Delete</string>
+    <string name="also_delete_from_device">Also delete from device?</string>
+    <string name="do_you_want_to_delete">Do you want to delete</string>
+</resources>
